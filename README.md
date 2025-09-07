@@ -1,12 +1,12 @@
 # MDL Extra
 
-**MDL Extra** is a userscript that enhances [MyDramaList](https://mydramalist.com) by adding inline +/– buttons for episodes.
+**MDL Extra** is a userscript that enhances [MyDramaList](https://mydramalist.com) with quick episode updates, keyboard shortcuts, and a floating search.
 
 ## Features
 
 - Quick **+ / – buttons** next to "Currently watching" on your profile.
-- Matches **MDL dark/light themes** automatically. **(Might be broken)**
-- Set your **username** to configure the script, so it only works on your own profile.
+- **Keyboard shortcuts** for faster navigation.
+- **Floating search bar** for easier access.
 
 ## Installation
 
@@ -17,12 +17,25 @@
 ## Configuration
 
 1. After installing, open the **Violentmonkey dashboard**.
-2. Click on the **script menu** → **Set MDL Username**.
-3. Enter your exact MyDramaList username (as shown in your profile URL).
+2. Click on the **MDL Extra Settings** menu option.
+3. A settings window will open where you can:
+   - Set your exact MyDramaList username (as shown in your profile URL).
+   - Customize keyboard shortcuts.
 
 ## Screenshot
-
-![Screenshot of MDL Extra](https://github.com/yaruee/mdl-extra/blob/main/images/buttons.png?raw=true)
+<table>
+  <tr>
+    <!-- Left column (Buttons + Search stacked) -->
+    <td align="center" width="50%">
+      <img src="https://github.com/yaruee/mdl-extra/blob/main/images/buttons.png?raw=true" width="95%" /><br><br>
+      <img src="https://github.com/yaruee/mdl-extra/blob/main/images/floating%20search.png?raw=true" width="95%" />
+    </td>
+    <!-- Right column (Settings spans both rows) -->
+    <td align="center" width="50%">
+      <img src="https://github.com/yaruee/mdl-extra/blob/main/images/settings.png?raw=true" width="95%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
