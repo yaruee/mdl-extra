@@ -2,7 +2,7 @@
 // @name         MDL Extra
 // @namespace    https://github.com/yaruee/mdl-extra
 // @version      1.0.0
-// @description  Adds extra functions to MyDramaList: quick +/– episode buttons,your profile only.
+// @description  Adds extra functions to MyDramaList: quick +/– episode buttons, your profile only.
 // @author       yaruee
 // @match        https://mydramalist.com/profile/*
 // @updateURL    https://raw.githubusercontent.com/yaruee/mdl-extra/main/mdl-extra.user.js
